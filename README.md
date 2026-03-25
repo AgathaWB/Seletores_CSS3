@@ -1,5 +1,6 @@
 Diferença do meu codigo para o codigo do professor foi:
 
+``css
 .card{
     *não coloquei*
             padding: 15px;
@@ -30,3 +31,4 @@ meu codigo estava assim:
 - #4988C4
 - #1C4D8D
 - #BDE8F5
+```
