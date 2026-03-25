@@ -1,6 +1,6 @@
 Diferença do meu codigo para o codigo do professor foi:
 
-``css
+```css
 .card{
     *não coloquei*
             padding: 15px;
